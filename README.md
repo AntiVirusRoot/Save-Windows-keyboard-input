@@ -1,5 +1,5 @@
 # 键盘记录
-对Windows键盘输入进行保存(Save Windows keyboard input)双击执行后在%appdata%下生成目录
+对Windows键盘输入进行保存(Save Windows keyboard input)双击执行后在%appdata%目录下生成记录
 # 广告
 免杀技术
 
